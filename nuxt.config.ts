@@ -8,7 +8,7 @@ export default defineNuxtConfig({
         "@nuxt/scripts",
         "nuxt-headlessui",
         "@vee-validate/nuxt",
-        "@nuxt/ui",
         "@pinia/nuxt"
-    ]
+    ],
+    css: ['~/assets/css/main.css'],
 })
