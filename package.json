@@ -16,13 +16,18 @@
     "@nuxt/scripts": "^0.6.5",
     "@nuxt/ui": "^2.18.3",
     "@nuxtjs/tailwindcss": "^6.12.1",
+    "@pinia/nuxt": "^0.5.2",
     "@vee-validate/nuxt": "^4.13.2",
     "@vueuse/core": "^10.11.0",
     "@vueuse/nuxt": "^10.11.0",
     "nuxt": "^3.12.4",
+    "pinia": "^2.2.0",
     "vue": "latest"
   },
   "devDependencies": {
     "nuxt-headlessui": "^1.2.0"
+  },
+  "overrides": {
+    "vue": "latest"
   }
 }
