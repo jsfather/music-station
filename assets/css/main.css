@@ -1,0 +1,7 @@
+@import "fonts.css";
+
+body, html {
+    font-family: "Blinker", serif;
+    user-select: none;
+    overflow-x: hidden;
+}
